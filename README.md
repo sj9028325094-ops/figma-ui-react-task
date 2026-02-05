@@ -1,6 +1,99 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Figma UI React Task
+
+This project is a React.js implementation of the provided Figma UI design.
+The objective of this task is to closely replicate the UI while following best practices in React component structure, styling, and responsiveness.
+
+---
+
+## 🔗 Figma Design Reference
+
+The UI was implemented based on the provided Figma design link as part of the assignment.
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6)
+- HTML5
+- CSS3
+
+---
+
+## ✨ Features
+
+- Pixel-close UI implementation from Figma
+- Responsive design (mobile, tablet, desktop)
+- Reusable and clean React components
+- Tailwind CSS utility-based styling
+- Clean and readable code structure
+
+---
+
+## 📁 Project Structure
+
+# Figma UI React Task
+
+This project is a React.js implementation of the provided Figma UI design.
+The objective of this task is to closely replicate the UI while following best practices in React component structure, styling, and responsiveness.
+
+---
+
+## 🔗 Figma Design Reference
+
+The UI was implemented based on the provided Figma design link as part of the assignment.
+
+---
+
+## 🛠 Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6)
+- HTML5
+- CSS3
+
+---
+
+## ✨ Features
+
+- Pixel-close UI implementation from Figma
+- Responsive design (mobile, tablet, desktop)
+- Reusable and clean React components
+- Tailwind CSS utility-based styling
+- Clean and readable code structure
+
+---
+
+## 📁 Project Structure
+
+figma-ui-react-task/
+│
+├── src/
+│ ├── components/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── public/
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/sj9028325094-ops/figma-ui-react-task.git
+
 
 ## Available Scripts
 
